@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8783437552:AAFONe5ofVpykXqgAacmO84hGTEuTlKNsS4")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "token")
 USE_REDIS = False
 USE_POSTGRES = False
 
